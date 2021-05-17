@@ -11,7 +11,7 @@ const fastify = require('fastify')({
 
 // Register static file server
 fastify.register(require('fastify-static'), {
-  root: __dirname,
+  root: process.env.PWD,
 });
   
 // Run the server!
