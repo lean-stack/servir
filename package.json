@@ -2,8 +2,10 @@
   "name": "@magro/servir",
   "version": "0.0.1",
   "description": "Lean web development server",
-  "main": "cli.js",
+  "main": "./src/servir.js",
+  "bin": "./cli.js",
   "scripts": {
+    "start": "node ./cli.js",
     "test": "jest"
   },
   "repository": {
