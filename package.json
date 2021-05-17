@@ -1,0 +1,23 @@
+{
+  "name": "@magro/servir",
+  "version": "0.0.1",
+  "description": "Lean web development server",
+  "main": "cli.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lean-stack/servir.git"
+  },
+  "keywords": [
+    "web-development",
+    "server"
+  ],
+  "author": "Michael Alt <mail@lean-stack.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lean-stack/servir/issues"
+  },
+  "homepage": "https://github.com/lean-stack/servir#readme"
+}
