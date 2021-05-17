@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/lean-stack/servir/issues"
   },
-  "homepage": "https://github.com/lean-stack/servir#readme"
+  "homepage": "https://github.com/lean-stack/servir#readme",
+  "dependencies": {
+    "fastify": "^3.15.1",
+    "fastify-static": "^4.2.0"
+  }
 }
