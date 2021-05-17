@@ -1,6 +1,6 @@
 {
   "name": "@magro/servir",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Lean web development server",
   "main": "./src/servir.js",
   "bin": "./cli.js",
